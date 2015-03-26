@@ -11,6 +11,7 @@ namespace HelloWithGit
         static void Main(string[] args)
         {
             Console.WriteLine("hello git");
+            Console.WriteLine("hello git");
             Console.ReadLine();
         }
     }
